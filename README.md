@@ -1,2 +1,2 @@
 # Brain_tumor_detection_revised
- Brain tumur detection using cnn 
+ Brain_Tumor_Detection Brain Tumor Detection using CNN: A deep learning-based system for accurately detecting brain tumors in MRI images. Includes a user-friendly GUI and the ability to visualize tumor regions.
