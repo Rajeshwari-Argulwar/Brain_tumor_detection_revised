@@ -13,5 +13,6 @@ Model Architecture The model architecture consists of multiple layers. It starts
 ## Usage 
 To use the trained model for brain tumor detection, load the saved model and pass the preprocessed MRI images to it for prediction. The model will output the probability of tumor presence. A threshold can be applied to classify the prediction as positive or negative based on the desired sensitivity and specificity.
 
-## Acknowledgments We acknowledge the contributions from the deep learning and medical imaging communities, which have made advancements in the field of brain tumor detection possible. Their efforts in research and development have paved the way for the creation of models like this, enabling early detection and improved patient care.
+## Acknowledgments 
+We acknowledge the contributions from the deep learning and medical imaging communities, which have made advancements in the field of brain tumor detection possible. Their efforts in research and development have paved the way for the creation of models like this, enabling early detection and improved patient care.
 
