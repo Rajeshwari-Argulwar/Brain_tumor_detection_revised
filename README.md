@@ -1,3 +1,4 @@
+#Navodita Infotech 
 # Deep Learning Model for Brain Tumor Detection
 This project implements a deep learning-based brain tumor detection system using Convolutional Neural Networks (CNN). The system aims to assist medical professionals in accurately identifying brain tumors in MRI images, enabling early detection and diagnosis of brain-related conditions. The CNN model has been trained on a diverse dataset of MRI images to ensure robust and reliable tumor detection.
 
